@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @faizzmarzuki
-- 👀 I’m interested in Mobile and Web development.
-- 🌱 I’m currently learning React.js and Next.js
+- 👨‍💻 Currently working as Software Engineer
+- 🎨 Intermediate in Front End Development
+- 💻 Learning on Back End Development
+- 🦸‍♂️ On my way to achieve the Sage of Full Stack Development
+- ✨ Current stack : MERN
 
 <!---
 faizzmarzuki/faizzmarzuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
