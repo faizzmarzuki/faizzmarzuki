@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @faizzmarzuki
 - 👨‍💻 Currently working as Software Engineer
 - 🎨 Intermediate in Front End Development
-- 💻 Learning on Back End Development
-- 🦸‍♂️ On my way to achieve the Sage of Full Stack Development
-- ✨ Current stack : MERN
+- 🦸‍♂️ On my way to achieve the Sage of Front End Development
 
 <!---
 faizzmarzuki/faizzmarzuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
