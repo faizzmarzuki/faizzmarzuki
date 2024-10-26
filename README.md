@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/faizzmarzuki/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
-</a> &nbsp; 
+</a> 
 
 <!---
 faizzmarzuki/faizzmarzuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
